@@ -4,7 +4,7 @@
 
 ```apt update && apt upgrade
 apt install git python -y
-git clone 
+git clone https://github.com/rooted-cyber/logout
 cd logout
 python logout.py
   ```
