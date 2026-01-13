@@ -2,9 +2,10 @@
 
 # installation
 <pre> 
-apt update && apt upgrade
+```apt update && apt upgrade
 apt install git python -y
 git clone 
 cd logout
 python logout.py
+  ```
 </pre>
